@@ -11,7 +11,8 @@ Bu projede C# ile Microsoft Access Veritabanı(Ekleme,Okuma,Güncelleme,Silme) i
 **CRUD işlemleri "Db_Access.cs" sınıfında gerçeklenmiştir.*
 
 ### Kullanıcı Arayüzü
-![Screenshot_2](https://user-images.githubusercontent.com/77530565/127559016-8d71430d-0a2b-4530-abd2-b300be03e3e5.png)
+![adas](https://user-images.githubusercontent.com/77530565/127559857-1c54034b-55cf-41bb-b775-c0da354554da.png)
+
 
 
 
